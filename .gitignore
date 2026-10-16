@@ -1,0 +1,16 @@
+# Large media files (exceeds GitHub 100MB limit)
+videos/
+
+# Temporary & session files
+cookie.txt
+temp_page.html
+test_download.bin
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+__pycache__/
+*.pyc
